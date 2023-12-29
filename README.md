@@ -6,10 +6,15 @@ https://karimashour.github.io/Travel_Website/
 
 # tools :
 - html
-- tailwind css
-- react.js
+- css
+- animate css
+- javascript
+- bootstrap
+- jquery
+- webfonts
 
 
 
 # features
-- Architecture landing page using Tailwind CSS and React JS
+- travel website
+- landing page
